@@ -1,1 +1,4 @@
-Test
+Test-User
+
+git config user.name "tsubro"
+git config user.email "mac.subro@gmail.com"
