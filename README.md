@@ -60,13 +60,13 @@ POST
 ### Setup
 
 > update and install this package first
+> Install Mongo-DB
 > Install Libra Office 
 
 ```shell
 $ brew update
-$ brew install libraoffice
-```
 
+```
 ---
 
 ## Contributing
