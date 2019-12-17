@@ -3,7 +3,7 @@
 
 > This is a REST based API and utility library to convert various doucment to pdf.
 > I made this project with the intention to learn golang and about open source contribution.
-> Code is still in pre-mature state and I will be obliged if folks here can support me in this learning journey.
+> Code is still in pre-mature state and I will be obliged if folks here can support me in this learning journey :)
 
 Supported Format are :
 * PDF
@@ -59,9 +59,10 @@ POST
 
 ### Setup
 
-> update and install this package first
-> Install Mongo-DB
-> Install Libra Office 
+* update and install this package first
+* Install Golang
+* Install Mongo-DB
+* Install Libra Office 
 
 ```shell
 $ brew update
